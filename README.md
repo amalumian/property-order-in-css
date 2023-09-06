@@ -2,9 +2,7 @@
 
 Observe a certain order of styles for the convenience and readability of the code. Positioning properties come first, then block model properties, then fonts. At the very end, other styling and animations.
 
-## Example
-
-  <code>
+<code>
   
     .element {
       /* Positioning */
@@ -40,4 +38,4 @@ Observe a certain order of styles for the convenience and readability of the cod
       animation: shake 0.3s infinite;
     }
 
-  </code>
+</code>
