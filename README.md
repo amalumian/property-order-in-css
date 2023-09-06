@@ -2,8 +2,6 @@
 
 Observe a certain order of styles for the convenience and readability of the code. Positioning properties come first, then block model properties, then fonts. At the very end, other styling and animations.
 
-<code>
-  
     .element {
       /* Positioning */
       position: relative;
@@ -37,5 +35,3 @@ Observe a certain order of styles for the convenience and readability of the cod
       transform: translateX(5px);
       animation: shake 0.3s infinite;
     }
-
-</code>
